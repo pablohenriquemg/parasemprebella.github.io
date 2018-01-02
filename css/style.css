@@ -333,9 +333,9 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .top-nav { }
 .call-block, .time-block { font-size: 18px; color: #2f2f2f; padding:7px;  }
 .call-no, .time{ font-family: 'Lato', sans-serif; }
-.call-no { font-size: 18px; color: #2f2f2f; font-weight: 600; }
+.call-no { font-size: 18px; color: #f5f5f5; font-weight: 600; }
 .time-block { }
-.call-text { font-size: 11px; color: #b4b1ac; text-transform: uppercase; letter-spacing: 1px; font-weight: 700; }
+.call-text { font-size: 11px; color: #070707; text-transform: uppercase; letter-spacing: 1px; font-weight: 700; }
 .top-btn { float:right; padding-top:7px;}
 
 /*--------------------------
