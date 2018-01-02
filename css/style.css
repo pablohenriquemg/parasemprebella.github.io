@@ -341,7 +341,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 /*--------------------------
     5.2 Navigations Regular
    ----------------------------*/
-.hero-section { background: url(../images/hero.jpg) no-repeat center right; background-size: cover; }
+.hero-section { background: url(../images/home_campaing.png) no-repeat center right; background-size: cover; }
 .hero-caption { padding-top: 140px; padding-bottom: 140px; }
 .hero-title { font-size: 36px; color: #2f2f2f; line-height: 50px; font-weight: 600; margin-bottom: 30px; }
 .hero-text { font-size: 16px; color: #686663; margin-bottom: 60px; line-height: 24px; }
